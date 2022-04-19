@@ -1,0 +1,5 @@
+create a new project java on Eclipse Ide --->Expand this project ---->right click on JRE System Library--->Go to build path-->
+then go to configure buildpath-->then click on leftside add external jar--> then export the jar file from local drive
+-->click on apply and close.
+
+                          ----Hurry your jar file successfully Export.
